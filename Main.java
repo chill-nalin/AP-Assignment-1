@@ -14,7 +14,7 @@ public class Main {
         FleetManager fleet = new FleetManager();
 
         // vehicles.csv contains some pre-defined vehicle data for the program.
-        // Use Menu Option 8, then enter vehicles.csv to use the data.
+        // Use Menu Option 8, then enter vehicles.csv if you want to use the data
         CLI(fleet);
     }
 
