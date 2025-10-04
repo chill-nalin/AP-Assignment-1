@@ -1,7 +1,7 @@
 # Transportation Fleet Management System
 
 **Author:** Nalin Gupta  
-**Assignment:** AP Assignment 1
+**Course:** CSE201 Advanced Programming
 
 ## Introduction
 
